@@ -1,2 +1,2 @@
-# potter-charms
+# potterhead
 Harry Potter API
