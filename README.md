@@ -1,6 +1,6 @@
 # potterhead
 
-This template should help get you started developing with Vue 3 in Vite.
+Find your spell and learn more about the Harry Potter universe.
 
 ## Recommended IDE Setup
 
